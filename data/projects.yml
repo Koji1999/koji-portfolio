@@ -11,3 +11,10 @@
   url: https://www.reciplan.org
   github: https://github.com/Koji1999/Forkcast
   online: true
+
+- name: Markdown Previewer
+  image: projects/markdown.png
+  description: Real-time markdown editor built with React and TypeScript. Features a clean split-panel interface with live HTML preview and a one-click copy HTML to clipboard function. Styled with Tailwind CSS.
+  url: https://markdown-previewer-ten-beta.vercel.app
+  github: https://github.com/Koji1999/markdown-previewer
+  online: true
