@@ -1,11 +1,20 @@
-// Define variables for your color scheme
+// Warm off-white palette
+$page-bg: #FAF8F4;
+$primary-text: #2C1A0E;
+$body-text: #4A3828;
+$secondary-text: #8A7A6A;
+$accent-text: #B09880;
+$card-bg: #FFFFFF;
+$border: #E8E0D4;
 
-// For example:
-$red: #FD1015;
-$blue: #0D6EFD;
+// Aliases used by _bootstrap_variables.scss
+$dark-gray: #2C1A0E;
+$gray: #8A7A6A;
+$light-gray: #FAF8F4;
+
+// Bootstrap theme colours (required by _bootstrap_variables.scss)
+$blue:   #0D6EFD;
+$green:  #1EDD88;
 $yellow: #FFC65A;
 $orange: #E67E22;
-$green: #1EDD88;
-$dark-gray: #0E0000;
-$gray: #868686;
-$light-gray: #F4F4F4;
+$red:    #FD1015;

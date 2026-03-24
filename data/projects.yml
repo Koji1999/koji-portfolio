@@ -1,13 +1,13 @@
 - name: A n D — AI-Powered RPG Narrator
+  image: projects/and.png
   description: Full stack web app where an AI language model acts as a live narrator for tabletop RPG sessions inspired by D&D. Integrated OpenAI chat API for dynamic story generation and image generation API to create character portraits based on player-selected class and race.
-  image: projects/placeholder.png
   url: https://a-n-d-6c853770e414.herokuapp.com/
   github: https://github.com/Koji1999/A_n_D
-  online: false
+  online: true
 
 - name: Forkcast — Meal Planning Web App
+  image: projects/forkcast.png
   description: Full stack web app for planning weekly meals and auto-generating a shopping list. Built with a 4-person agile team over 2 weeks, handling everything from database design to Heroku deployment.
-  image: projects/placeholder.png
   url: https://www.reciplan.org
   github: https://github.com/Koji1999/Forkcast
   online: true

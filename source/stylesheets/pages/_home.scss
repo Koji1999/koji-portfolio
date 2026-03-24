@@ -1,1 +1,31 @@
 // Specific CSS for your home-page
+
+body {
+  background-color: #FAF8F4;
+  color: #4A3828;
+}
+
+#contact {
+  border-top: 1px solid #E8E0D4;
+  padding-top: 32px;
+}
+
+#about > h2,
+#projects > h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  color: #B09880;
+  font-family: sans-serif;
+  font-weight: 400;
+  margin-bottom: 20px;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 32px;
+    height: 1px;
+    background: #B09880;
+    margin-top: 10px;
+  }
+}
