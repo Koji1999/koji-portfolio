@@ -18,3 +18,10 @@
   url: https://markdown-previewer-ten-beta.vercel.app
   github: https://github.com/Koji1999/markdown-previewer
   online: true
+
+- name: Sliding Puzzle
+  image: projects/sliding-puzzle.png
+  description: A classic 15-tile sliding puzzle built with React and TypeScript. Features smooth tile animations, win detection, and a cheat mode with drag and drop powered by dnd-kit. Styled with Tailwind CSS.
+  url: https://sliding-puzzle-swart-delta.vercel.app
+  github: https://github.com/Koji1999/sliding-puzzle
+  online: true
