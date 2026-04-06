@@ -25,3 +25,10 @@
   url: https://sliding-puzzle-swart-delta.vercel.app
   github: https://github.com/Koji1999/sliding-puzzle
   online: true
+
+- name: Devtype
+  image: projects/devype.png
+  description: Typing speed test built with React and TypeScript, designed specifically for developers. Features real code snippets fetched live from GitHub across 11 programming languages, WPM/CPM/accuracy tracking, and error-blocking input that forces you to backspace and correct mistakes. Styled with Tailwind CSS.
+  url: https://sliding-puzzle-swart-delta.vercel.app
+  github: https://github.com/Koji1999/sliding-puzzle
+  online: true
